@@ -1,4 +1,8 @@
 /*
+Wesley Elbert Assis
+*/
+
+/*
 Vetores parte 1
 
 Arrays {vetores uni-dimensionais}
