@@ -1,4 +1,8 @@
 /*
+Wesley Elbert Assis
+*/
+
+/*
 Faça um programa que receba a altura e o sexo de uma pessoa e calcule 
 e mostre seu peso ideal, utilizando as seguintes fórmulas (onde H ocorre à altura)
 Homens (72.7 * H ) - 58
