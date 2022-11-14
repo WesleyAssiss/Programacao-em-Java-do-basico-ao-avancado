@@ -1,4 +1,8 @@
 /*
+Wesley Elbert Assis
+*/
+
+/*
  Faça um programa que calcule e mostre a área de um trapézio. Sabe-se que:
 
 A = (BaseMaior + BaseMenor) * altura
