@@ -1,4 +1,8 @@
 /*
+Wesley Elbert Assis
+*/
+
+/*
 Operações Matemáticas
  */
 package Secao4;
