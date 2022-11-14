@@ -1,4 +1,8 @@
 /*
+Wesley Elbert Assis
+*/
+
+/*
 Tipos Booleanos
  */
 package Secao4;
