@@ -1,4 +1,8 @@
 /*
+Wesley Elbert Assis
+*/
+
+/*
 Tipos de dados Alfanuméricos
 Caracteres e Strings
  */
