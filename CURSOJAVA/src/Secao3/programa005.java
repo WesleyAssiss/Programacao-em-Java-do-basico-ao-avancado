@@ -1,4 +1,8 @@
 /*
+Wesley Elbert Assis
+*/
+
+/*
 Faça um programa que peça ao usuário digitar 10 valores e some-os.
  */
 package Secao3;
