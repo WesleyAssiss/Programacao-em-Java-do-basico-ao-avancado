@@ -1,3 +1,7 @@
+/*
+Wesley Elbert Assis
+*/
+
 package Secao1;
 
 //A importância de 780.000,00 será divida entre três ganhadores
