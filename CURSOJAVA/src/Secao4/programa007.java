@@ -1,7 +1,11 @@
 /*
+Wesley Elbert Assis
+*/
+
+/*
 Vetores
  */
-//Ctrl e / Barra para comentar todas linhas.
+
 package Secao4;
 
 public class programa007 {
