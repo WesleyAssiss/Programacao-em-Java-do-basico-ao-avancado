@@ -1,4 +1,8 @@
 /*
+Wesley Elbert Assis
+*/
+
+/*
 Tipos de dados     
 Numéricos (Inteiros e Reais)
  */
