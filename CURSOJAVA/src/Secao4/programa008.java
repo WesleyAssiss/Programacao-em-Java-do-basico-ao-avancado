@@ -1,4 +1,8 @@
 /*
+Wesley Elbert Assis
+*/
+
+/*
  Matrizes
 
 Vetores/arrays/matrizes -> multi-dimensionais
