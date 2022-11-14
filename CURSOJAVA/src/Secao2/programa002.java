@@ -1,4 +1,8 @@
 /*
+Wesley Elbert Assis
+*/
+
+/*
 Faça um programa que receba dois números e mostre qual deles é maior
 */
 package Secao2;
