@@ -1,4 +1,8 @@
 /*
+Wesley Elbert Assis
+*/
+
+/*
 A nota final de um estudante é calculada a partir de três notas atribuídas 
 entre o intervalo de 0 a 10, respectivamente, a um trabalho de laboratório,
 a uma avaliação semestral e a um exame final. A média das três notas mencionadas
