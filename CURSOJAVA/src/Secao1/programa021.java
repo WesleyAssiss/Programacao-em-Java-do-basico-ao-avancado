@@ -1,3 +1,7 @@
+/*
+Wesley Elbert Assis
+*/
+
 package Secao1;
 
 import java.util.Scanner;
