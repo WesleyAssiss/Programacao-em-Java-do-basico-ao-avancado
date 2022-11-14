@@ -1,4 +1,8 @@
 /*
+Wesley Elbert Assis
+*/
+
+/*
  Faça um programa que calule e mostre a soma dos 50 primeiros números pares
  */
 package Secao3;
