@@ -1,4 +1,6 @@
-
+/*
+Wesley Elbert Assis
+*/
 public class COLOR {
     // Reset
 
