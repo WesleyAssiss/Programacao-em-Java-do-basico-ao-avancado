@@ -1,4 +1,8 @@
 /*
+Wesley Elbert Assis
+*/
+
+/*
 Usando Switch, escreva um programa que leia um inteiro entre 1 e 12 e imprima
 o mês correspondente a este número. Isto é, Janeiro se 1, Fevereiro se 2
 e assim por diante.
