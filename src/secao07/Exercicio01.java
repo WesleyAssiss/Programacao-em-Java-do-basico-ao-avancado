@@ -1,4 +1,4 @@
-package secao07.Exercicio;
+package secao07;
 
 /*
 1. Faça um programa que possua uma função que recebe como parâmetro um número inteiro e

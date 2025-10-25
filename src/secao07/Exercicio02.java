@@ -1,4 +1,4 @@
-package secao07.Exercicio;
+package secao07;
 
 /*
 2. Faça um programa que receba a data atual (dia, mês e ano) e exiba na tela no formato textual.

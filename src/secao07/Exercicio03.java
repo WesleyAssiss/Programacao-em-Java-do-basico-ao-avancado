@@ -1,4 +1,4 @@
-package secao07.Exercicio;
+package secao07;
 
 /*
 3. Escreva um programa que tenha uma função que recebe dois valores inteiros e retorna o
