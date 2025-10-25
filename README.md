@@ -41,7 +41,7 @@ O curso é abrangente e cobre os seguintes tópicos, organizados por seção:
 
 ### Progresso Atual
 
-Atualmente, estou no processo de aprendizado e desenvolvimento da **Seção 7**: Funções em Java. O repositório será atualizado progressivamente à medida que avanço nas seções do curso.
+Atualmente, estou no processo de aprendizado e desenvolvimento da **Seção 9**: Pacotes. O repositório será atualizado progressivamente à medida que avanço nas seções do curso.
 
 -----
 
